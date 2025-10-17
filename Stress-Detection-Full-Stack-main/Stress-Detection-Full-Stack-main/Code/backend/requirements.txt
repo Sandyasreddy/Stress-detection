@@ -1,0 +1,8 @@
+flask==2.3.3
+flask-cors==4.0.0
+opencv-python==4.6.0.66
+numpy==1.21.6
+imutils==0.5.4
+dlib==19.24.2
+tensorflow==2.10.0
+keras==2.10.0
